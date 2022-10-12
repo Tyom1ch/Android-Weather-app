@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Погода АРІ</string>
+    <string name="err_nt">Неправильні дані!</string>
+</resources>
